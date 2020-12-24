@@ -1,5 +1,5 @@
-# Spring-Boot-CRUD-RESTfulAPI-Hibernate-MySQL-example
-Simple user management application - Spring Boot CRUD RESTfulAPI Hibernate MySQL example
+## Spring-Boot-CRUD-RESTfulAPI-Hibernate-MySQL-example
+### Simple user management application - Spring Boot CRUD RESTfulAPI Hibernate MySQL example
 
 ```java
 package com.example.controller;
